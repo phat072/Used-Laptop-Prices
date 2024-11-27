@@ -680,7 +680,7 @@
         "processor":"Intel Core i9",
         "ram":16,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"US",
         "hard_driver_kind":"SSD",
         "price":51000000
@@ -806,7 +806,7 @@
         "processor":"Intel Core i5",
         "ram":16,
         "card":"Onboard",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"US",
         "hard_driver_kind":"SSD",
         "price":37500000
@@ -834,7 +834,7 @@
         "processor":"Intel Core i7",
         "ram":32,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"US",
         "hard_driver_kind":"SSD",
         "price":21500000
@@ -932,7 +932,7 @@
         "processor":"Intel Core i9",
         "ram":32,
         "card":"AMD",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"Unknown",
         "hard_driver_kind":"SSD",
         "price":18900000
@@ -1016,7 +1016,7 @@
         "processor":"Intel Core i7",
         "ram":16,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"US",
         "hard_driver_kind":"SSD",
         "price":17900000
@@ -1030,7 +1030,7 @@
         "processor":"Intel Core i7",
         "ram":32,
         "card":"Onboard",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"VietNam",
         "hard_driver_kind":"SSD",
         "price":180000000
@@ -1142,7 +1142,7 @@
         "processor":"Intel Core i9",
         "ram":16,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"US",
         "hard_driver_kind":"SSD",
         "price":32000000
@@ -1156,7 +1156,7 @@
         "processor":"Intel Core i5",
         "ram":16,
         "card":"Onboard",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"US",
         "hard_driver_kind":"SSD",
         "price":36000000
@@ -1226,7 +1226,7 @@
         "processor":"Intel Core i9",
         "ram":32,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"US",
         "hard_driver_kind":"SSD",
         "price":20500000
@@ -1352,7 +1352,7 @@
         "processor":"Intel Core i5",
         "ram":32,
         "card":"AMD",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"Unknown",
         "hard_driver_kind":"SSD",
         "price":65000000
@@ -1590,7 +1590,7 @@
         "processor":"Intel Core i7",
         "ram":32,
         "card":"AMD",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"VietNam",
         "hard_driver_kind":"SSD",
         "price":16900000
@@ -1618,7 +1618,7 @@
         "processor":"Intel Xeon",
         "ram":32,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"US",
         "hard_driver_kind":"SSD",
         "price":26000000
@@ -1688,7 +1688,7 @@
         "processor":"Intel Core i9",
         "ram":16,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"VietNam",
         "hard_driver_kind":"SSD",
         "price":29800000
@@ -1730,7 +1730,7 @@
         "processor":"Intel Core i5",
         "ram":8,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"Korea",
         "hard_driver_kind":"SSD",
         "price":30500000
@@ -1744,7 +1744,7 @@
         "processor":"Intel Core i5",
         "ram":16,
         "card":"Onboard",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"Trung Quốc",
         "hard_driver_kind":"SSD",
         "price":18490000
@@ -2094,7 +2094,7 @@
         "processor":"Intel Core i5",
         "ram":16,
         "card":"Onboard",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"Unknown",
         "hard_driver_kind":"SSD",
         "price":18500000
@@ -2220,7 +2220,7 @@
         "processor":"Intel Core i3",
         "ram":6,
         "card":"Onboard",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"Unknown",
         "hard_driver_kind":"HDD",
         "price":800000
@@ -2332,7 +2332,7 @@
         "processor":"Intel Core i7",
         "ram":32,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"US",
         "hard_driver_kind":"SSD",
         "price":36500000
@@ -2430,7 +2430,7 @@
         "processor":"Intel Core i7",
         "ram":32,
         "card":"AMD",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"Unknown",
         "hard_driver_kind":"SSD",
         "price":18500000
@@ -2640,7 +2640,7 @@
         "processor":"AMD",
         "ram":16,
         "card":"AMD",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"Trung Quốc",
         "hard_driver_kind":"SSD",
         "price":15000000
@@ -2808,7 +2808,7 @@
         "processor":"Intel Core i7",
         "ram":8,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"VietNam",
         "hard_driver_kind":"SSD",
         "price":2800000
@@ -3018,7 +3018,7 @@
         "processor":"Intel Core i7",
         "ram":16,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"Taiwan",
         "hard_driver_kind":"SSD",
         "price":7000000
@@ -3060,7 +3060,7 @@
         "processor":"Intel Core i9",
         "ram":32,
         "card":"AMD",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"Unknown",
         "hard_driver_kind":"SSD",
         "price":17990000
@@ -3340,7 +3340,7 @@
         "processor":"Intel Core i7",
         "ram":16,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"Unknown",
         "hard_driver_kind":"SSD",
         "price":7900000
@@ -3606,7 +3606,7 @@
         "processor":"Intel Core i5",
         "ram":8,
         "card":"AMD",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"US",
         "hard_driver_kind":"HDD",
         "price":4800000
@@ -3802,7 +3802,7 @@
         "processor":"Intel Core i5",
         "ram":8,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"VietNam",
         "hard_driver_kind":"SSD",
         "price":5000000
@@ -3984,7 +3984,7 @@
         "processor":"Intel Core i5",
         "ram":16,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"Unknown",
         "hard_driver_kind":"SSD",
         "price":16500000
@@ -4040,7 +4040,7 @@
         "processor":"Intel Core i9",
         "ram":16,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"VietNam",
         "hard_driver_kind":"SSD",
         "price":21890000
@@ -5104,7 +5104,7 @@
         "processor":"Intel Core i9",
         "ram":16,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"VietNam",
         "hard_driver_kind":"SSD",
         "price":23000000
@@ -5594,7 +5594,7 @@
         "processor":"Intel Core i9",
         "ram":32,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"US",
         "hard_driver_kind":"SSD",
         "price":28000000
@@ -5734,7 +5734,7 @@
         "processor":"Intel Core i7",
         "ram":32,
         "card":"NVIDIA",
-        "hard_driver":1,
+        "hard_driver":1024,
         "made_in":"US",
         "hard_driver_kind":"SSD",
         "price":16300000
