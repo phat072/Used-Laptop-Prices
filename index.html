@@ -42,6 +42,17 @@
             margin-bottom: 20px; /* Khoảng cách giữa các iframe */
         }
 
+        .iframe_streamlit {
+            border: 2px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 1550px;
+            height: 1000px; 
+            box-sizing: border-box;
+            margin-bottom: 20px; /* Khoảng cách giữa các iframe */
+        }
+
         footer {
             background-color: #4A90E2;
             color: #fff;
@@ -63,10 +74,19 @@
             iframe {
                 height: 700px; /* Điều chỉnh chiều cao cho màn hình nhỏ hơn */
             }
+
+            iframe_streamlit {
+                height: 700px; /* Điều chỉnh chiều cao cho màn hình nhỏ hơn */
+            }
+
         }
 
         @media (max-width: 768px) {
             iframe {
+                height: 600px; /* Điều chỉnh thêm cho thiết bị nhỏ hơn */
+            }
+
+            iframe_streamlit {
                 height: 600px; /* Điều chỉnh thêm cho thiết bị nhỏ hơn */
             }
         }
@@ -83,12 +103,10 @@
             allowFullScreen="true">
         </iframe>
         
-        <!-- Nút chuyển hướng đến ứng dụng Streamlit -->
-        <a href="https://used-laptop-prices-4yvukcu86vxxdc5o7avnhy.streamlit.app/" target="_blank" 
-        style="display: inline-block; padding: 10px 20px; background-color: #4A90E2; color: #fff; 
-               text-decoration: none; border-radius: 5px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); margin-top: 20px; margin-bottom: 40px">
-            Predict Laptop Prices
-        </a>
+        <iframe class="iframe_streamlit" title="Streamlit App" 
+            src="https://used-laptop-prices-4yvukcu86vxxdc5o7avnhy.streamlit.app/?embedded=true" 
+            allowFullScreen="true">
+        </iframe>
     </main>
     <footer>
         Designed by <a href="#">Khoa & Chí & Phát</a> &copy; 2024

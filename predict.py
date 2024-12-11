@@ -23,9 +23,6 @@ base_dir = os.getcwd()
 json_path = os.path.abspath(os.path.join(base_dir, "data/laptop_data_cleaned.csv"))
 df = pd.read_csv(json_path)
 
-with st.expander("Xem trước dữ liệu"):
-    st.dataframe(df)
-
 # Danh sách các tệp mô hình để người dùng chọn
 model_files = ["model_storage/Decision_Tree_Model_Final.joblib", "model_storage/Ridge_model_Final.joblib", "model_storage/Random_forest_model_Final.joblib"]
 
