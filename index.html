@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Dashboard - Phân Tích Dữ Liệu Laptop</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+
+        header {
+            background-color: #4A90E2;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            font-size: 1.5em;
+        }
+
+        main {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            min-height: 80vh;
+            box-sizing: border-box;
+        }
+
+        iframe {
+            border: 2px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 1600px;
+            height: 800px; 
+            box-sizing: border-box;
+        }
+
+        footer {
+            background-color: #4A90E2;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        footer a {
+            color: #FFD700;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        /* Đảm bảo iframe phản hồi tốt trên thiết bị di động */
+        @media (max-width: 1600px) {
+            iframe {
+                height: 700px; /* Điều chỉnh chiều cao cho màn hình nhỏ hơn */
+            }
+        }
+
+        @media (max-width: 768px) {
+            iframe {
+                height: 600px; /* Điều chỉnh thêm cho thiết bị nhỏ hơn */
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Phân Tích Dữ Liệu Laptop
+    </header>
+    <main>
+        <iframe title="PTDL" 
+            src="https://app.powerbi.com/reportEmbed?reportId=14f45884-e8d3-4df1-9336-d52983f9abed&autoAuth=true&ctid=2dff09ac-2b3b-4182-9953-2b548e0d0b39" 
+            allowFullScreen="true">
+        </iframe>
+    </main>
+    <footer>
+        Designed by <a href="#">Khoa & Chí & Phát</a> &copy; 2024
+    </footer>
+</body>
+</html>
