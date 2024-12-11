@@ -23,6 +23,7 @@
 
         main {
             display: flex;
+            flex-direction: column; /* Thay đổi từ row thành column để xếp dọc */
             justify-content: center;
             align-items: center;
             padding: 20px;
@@ -38,6 +39,7 @@
             max-width: 1600px;
             height: 800px; 
             box-sizing: border-box;
+            margin-bottom: 20px; /* Khoảng cách giữa các iframe */
         }
 
         footer {
@@ -75,8 +77,15 @@
         Phân Tích Dữ Liệu Laptop
     </header>
     <main>
+        <!-- Iframe cho Dashboard Power BI -->
         <iframe title="PTDL" 
             src="https://app.powerbi.com/reportEmbed?reportId=14f45884-e8d3-4df1-9336-d52983f9abed&autoAuth=true&ctid=2dff09ac-2b3b-4182-9953-2b548e0d0b39" 
+            allowFullScreen="true">
+        </iframe>
+
+        <!-- Iframe cho Ứng dụng Streamlit -->
+        <iframe title="Streamlit App" 
+            src="https://your-streamlit-app.herokuapp.com/" 
             allowFullScreen="true">
         </iframe>
     </main>

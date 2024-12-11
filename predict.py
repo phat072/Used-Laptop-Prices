@@ -1,12 +1,9 @@
-import json
 import pandas as pd
-import plotly.express as px
 import streamlit as st
 import joblib
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
-import numpy as np
 import os
 
 # Định nghĩa các trình biến đổi số và danh mục
