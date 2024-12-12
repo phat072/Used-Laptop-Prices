@@ -3,3 +3,5 @@ streamlit
 joblib
 scikit-learn
 plotly
+matplotlib
+seaborn

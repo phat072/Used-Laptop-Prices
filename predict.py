@@ -5,6 +5,8 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 import os
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 # Định nghĩa các trình biến đổi số và danh mục
 num_transformer = Pipeline(steps=[
@@ -22,6 +24,57 @@ cat_feature = ["brand", "model", "condition", "processor", "card", "made_in","ha
 base_dir = os.getcwd()
 json_path = os.path.abspath(os.path.join(base_dir, "data/laptop_data_cleaned.csv"))
 df = pd.read_csv(json_path)
+
+# ### Thêm các biểu đồ trực quan hóa dữ liệu ###
+st.header("Thống Kê Dữ Liệu")
+
+# Biểu đồ phân phối giá
+st.subheader("Phân Phối Giá Laptop")
+fig_price, ax_price = plt.subplots()
+sns.histplot(df['price'], kde=True, ax=ax_price)
+ax_price.set_xlabel("Giá (VND)")
+ax_price.set_ylabel("Số lượng")
+st.pyplot(fig_price)
+
+# Biểu đồ số lượng sản phẩm theo thương hiệu
+st.subheader("Số Lượng Sản Phẩm Theo Thương Hiệu")
+brand_counts = df['brand'].value_counts()
+fig_brand, ax_brand = plt.subplots(figsize=(10,6))
+sns.barplot(x=brand_counts.index, y=brand_counts.values, ax=ax_brand)
+ax_brand.set_xlabel("Thương Hiệu")
+ax_brand.set_ylabel("Số lượng")
+ax_brand.set_title("Số Lượng Sản Phẩm Theo Thương Hiệu")
+plt.xticks(rotation=45)
+st.pyplot(fig_brand)
+
+# Biểu đồ tình trạng sản phẩm
+st.subheader("Tình Trạng Sản Phẩm")
+condition_counts = df['condition'].value_counts()
+fig_condition, ax_condition = plt.subplots()
+sns.barplot(x=condition_counts.index, y=condition_counts.values, ax=ax_condition)
+ax_condition.set_xlabel("Tình Trạng")
+ax_condition.set_ylabel("Số lượng")
+ax_condition.set_title("Tình Trạng Sản Phẩm")
+plt.xticks(rotation=45)
+st.pyplot(fig_condition)
+
+# Biểu đồ phân phối RAM
+st.subheader("Phân Phối RAM")
+fig_ram, ax_ram = plt.subplots()
+sns.countplot(x='ram', data=df, ax=ax_ram)
+ax_ram.set_xlabel("RAM (GB)")
+ax_ram.set_ylabel("Số lượng")
+ax_ram.set_title("Phân Phối RAM")
+st.pyplot(fig_ram)
+
+# Biểu đồ phân phối kích thước màn hình
+st.subheader("Phân Phối Kích Thước Màn Hình")
+fig_screen, ax_screen = plt.subplots()
+sns.histplot(df['screen_size'], bins=10, kde=True, ax=ax_screen)
+ax_screen.set_xlabel("Kích Thước Màn Hình (inch)")
+ax_screen.set_ylabel("Số lượng")
+st.pyplot(fig_screen)
+
 
 # Danh sách các tệp mô hình để người dùng chọn
 model_files = ["model_storage/Decision_Tree_Model_Final.joblib", "model_storage/Ridge_model_Final.joblib", "model_storage/Random_forest_model_Final.joblib"]
