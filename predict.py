@@ -25,16 +25,22 @@ base_dir = os.getcwd()
 json_path = os.path.abspath(os.path.join(base_dir, "data/laptop_data_cleaned.csv"))
 df = pd.read_csv(json_path)
 
+# Chuyển đổi đơn vị giá từ VND sang triệu VND
+df['price_million'] = df['price'] / 1000000  # Thêm cột giá theo triệu VND
+
 # ### Thêm các biểu đồ trực quan hóa dữ liệu ###
 st.header("Thống Kê Dữ Liệu")
 
-# Biểu đồ phân phối giá
-st.subheader("Phân Phối Giá Laptop")
-fig_price, ax_price = plt.subplots()
-sns.histplot(df['price'], kde=True, ax=ax_price)
-ax_price.set_xlabel("Giá (VND)")
-ax_price.set_ylabel("Số lượng")
-st.pyplot(fig_price)
+# Biểu đồ phân phối giá laptop
+df_filtered = df[df['price_million'] < 100]
+st.subheader("Phân Phối Giá Laptop (Dưới 100 Triệu VND)")
+fig_filtered, ax_filtered = plt.subplots()
+sns.histplot(df_filtered['price_million'], kde=True, ax=ax_filtered, bins=15, color='orange')
+ax_filtered.set_xlabel("Giá (Triệu VND)")
+ax_filtered.set_ylabel("Số lượng")
+ax_filtered.set_title("Phân Phối Giá Laptop (Dưới 100 Triệu VND)")
+st.pyplot(fig_filtered)
+
 
 # Biểu đồ số lượng sản phẩm theo thương hiệu
 st.subheader("Số Lượng Sản Phẩm Theo Thương Hiệu")
