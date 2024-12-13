@@ -32,13 +32,13 @@ df['price_million'] = df['price'] / 1000000  # Thêm cột giá theo triệu VND
 st.header("Thống Kê Dữ Liệu")
 
 # Biểu đồ phân phối giá laptop
-df_filtered = df[df['price_million'] < 100]
-st.subheader("Phân Phối Giá Laptop (Dưới 100 Triệu VND)")
+df_filtered = df[df['price_million'] <= 50]
+st.subheader("Phân Phối Giá Laptop (Dưới 50 Triệu VND)")
 fig_filtered, ax_filtered = plt.subplots()
 sns.histplot(df_filtered['price_million'], kde=True, ax=ax_filtered, bins=15, color='orange')
 ax_filtered.set_xlabel("Giá (Triệu VND)")
 ax_filtered.set_ylabel("Số lượng")
-ax_filtered.set_title("Phân Phối Giá Laptop (Dưới 100 Triệu VND)")
+ax_filtered.set_title("Phân Phối Giá Laptop (Dưới 50 Triệu VND)")
 st.pyplot(fig_filtered)
 
 
