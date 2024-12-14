@@ -1,0 +1,592 @@
+﻿brand,model,condition,warranty,screen_size,processor,ram,card,hard_driver,made_in,information,hard_driver_kind,price
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,256 GB,Mỹ,In trên bao bì,SSD,7.600.000 đ
+Asus,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,256 GB,Đang cập nhật,In trên bao bì,SSD,5.400.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,11 - 12.9 inch,Intel Core i5,8 GB,Khác,256 GB,Mỹ,In trên bao bì,SSD,3.950.000 đ
+Apple,MacBook Pro,Mới,Bảo hành hãng,15 - 16.9 inch,Intel Core i9,16 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,14.500.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,NVIDIA,256 GB,Việt Nam,In trên bao bì,SSD,5.990.000 đ
+Hãng khác,Dòng Khác,Đã sử dụng (chưa sửa chữa),3 tháng,17 - 18.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,4.950.000 đ
+HP,Elitebook,Đã sử dụng (chưa sửa chữa),Còn bảo hành,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,5.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,14.900.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,3.300.000 đ
+MSI,GF Series,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,14.900.000 đ
+Apple,MacBook Pro,Đã sử dụng (qua sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,7.500.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,2.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),4-6 tháng,13 - 14.9 inch,Intel Core i5,8 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,3.800.000 đ
+Dell,Inspiron,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i3,4 GB,Onboard,< 128 GB,Đang cập nhật,In trên bao bì,SSD,1.200.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,14.000.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i7,16 GB,NaN,512 GB,Đang cập nhật,In trên bao bì,NaN,14.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,NaN,256 GB,Nhật Bản,In trên bao bì,SSD,4.600.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,7.700.000 đ
+Acer,Aspire,Mới,Còn bảo hành,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,250 GB,Mỹ,In trên bao bì,SSD,4.800.000 đ
+Dell,Latitude,Mới,>12 tháng,13 - 14.9 inch,Khác,32 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,21.990.000 đ
+Hãng khác,Dòng Khác,Đã sử dụng (chưa sửa chữa),1 tháng,11 - 12.9 inch,Intel Core i5,8 GB,Khác,256 GB,Nhật Bản,In trên bao bì,SSD,3.330.000 đ
+Lenovo,ThinkPad,Mới,1 tháng,15 - 16.9 inch,Intel Core i7,32 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,21.900.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),Còn bảo hành,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,12.990.000 đ
+Apple,MacBook,Đã sử dụng (chưa sửa chữa),3 tháng,NaN,NaN,16 GB,NaN,512 GB,Đang cập nhật,In trên bao bì,SSD,16.600.000 đ
+HP,Elitebook,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Khác,256 GB,Nhật Bản,In trên bao bì,SSD,7.000.000 đ
+Acer,Aspire,Mới,Còn bảo hành,15 - 16.9 inch,Intel Core i7,8 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,10.990.000 đ
+Dell,Inspiron,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,4.900.000 đ
+Acer,Aspire,Đã sử dụng (chưa sửa chữa),Còn bảo hành,15 - 16.9 inch,Khác,16 GB,NVIDIA,512 GB,Đang cập nhật,In trên bao bì,NaN,8.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,6.500.000 đ
+Asus,Zenbook Series,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,4 GB,Onboard,500 GB,Nước khác,In trên bao bì,HDD,6.000.000 đ
+Acer,Dòng Khác,Đã sử dụng (chưa sửa chữa),Còn bảo hành,11 - 12.9 inch,Intel Pentium,4 GB,Onboard,128 GB,Việt Nam,In trên bao bì,SSD,2.800.000 đ
+Apple,MacBook Pro,Mới,Bảo hành hãng,15 - 16.9 inch,Intel Core i9,16 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,14.500.000 đ
+HP,ProBook,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Pentium,4 GB,Khác,128 GB,Đang cập nhật,In trên bao bì,SSD,1.490.000 đ
+Apple,Macbook Air M3,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Khác,> 32GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,24.500.000 đ
+Hãng khác,Dòng Khác,Đã sử dụng (chưa sửa chữa),3 tháng,17 - 18.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,4.950.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,4.200.000 đ
+Asus,Zenbook Series,Mới,Còn bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,13.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),4-6 tháng,13 - 14.9 inch,Intel Core i5,8 GB,NVIDIA,256 GB,Mỹ,In trên bao bì,SSD,7.550.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,14.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,NaN,256 GB,Nhật Bản,In trên bao bì,SSD,4.600.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,7.700.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Khác,16 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,36.900.000 đ
+Acer,Aspire,Mới,Còn bảo hành,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,250 GB,Mỹ,In trên bao bì,SSD,4.800.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,256 GB,Mỹ,In trên bao bì,SSD,7.000.000 đ
+Hãng khác,Dòng Khác,Đã sử dụng (chưa sửa chữa),1 tháng,11 - 12.9 inch,Intel Core i5,8 GB,Khác,256 GB,Nhật Bản,In trên bao bì,SSD,3.330.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,11.900.000 đ
+Asus,FX Series/ZX Series,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Ryzen 7,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,9.999.000 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,5.500.000 đ
+Apple,MacBook Air M1,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,NaN,8 GB,NaN,256 GB,Mỹ,In trên bao bì,NaN,12.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,12.900.000 đ
+Acer,Aspire,Mới,Còn bảo hành,15 - 16.9 inch,Intel Core i7,8 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,10.990.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,14.900.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),7-12 tháng,13 - 14.9 inch,Ryzen 5,16 GB,NaN,256 GB,Mỹ,In trên bao bì,SSD,9.100.000 đ
+MSI,W Series,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Intel Core i9,32 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,20.500.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Ryzen 7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,15.000.000 đ
+Acer,Nitro 5,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,128 GB,Thái Lan,In trên bao bì,SSD,4.500.000 đ
+Lenovo,Legion Y Series,Mới,7-12 tháng,15 - 16.9 inch,Intel Core i9,16 GB,NVIDIA,1 TB,Mỹ,In trên bao bì,SSD,51.000.000 đ
+Acer,Dòng Khác,Đã sử dụng (chưa sửa chữa),Còn bảo hành,11 - 12.9 inch,Intel Pentium,4 GB,Onboard,128 GB,Việt Nam,In trên bao bì,SSD,2.800.000 đ
+HP,ProBook,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Pentium,4 GB,Khác,128 GB,Đang cập nhật,In trên bao bì,SSD,1.490.000 đ
+Asus,ROG Strix Scar,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,10.800.000 đ
+Asus,Zenbook Series,Mới,Còn bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,13.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,3.900.000 đ
+Hãng khác,Dòng Khác,Đã sử dụng (chưa sửa chữa),1 tháng,11 - 12.9 inch,Intel Core i5,8 GB,Onboard,128 GB,Nhật Bản,In trên bao bì,SSD,3.300.000 đ
+Hãng khác,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,NVIDIA,250 GB,Trung Quốc,In trên bao bì,SSD,4.850.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,5.800.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,5.200.000 đ
+Asus,FX Series/ZX Series,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Ryzen 7,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,9.999.000 đ
+Asus,TUF Gaming,Đã sử dụng (chưa sửa chữa),Còn bảo hành,17 - 18.9 inch,Intel Core i5,16 GB,NVIDIA,512 GB,Đài Loan,In trên bao bì,SSD,12.800.000 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,5.500.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i7,8 GB,NaN,256 GB,Nước khác,In trên bao bì,SSD,9.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,12.900.000 đ
+Apple,MacBook Pro M1,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Khác,16 GB,Onboard,1 TB,Mỹ,In trên bao bì,SSD,37.500.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),7-12 tháng,13 - 14.9 inch,Ryzen 5,16 GB,NaN,256 GB,Mỹ,In trên bao bì,SSD,9.100.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,4.700.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Ryzen 7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,15.000.000 đ
+Acer,Nitro 5,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,128 GB,Thái Lan,In trên bao bì,SSD,4.500.000 đ
+HP,ZBook,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,32 GB,NVIDIA,1 TB,Mỹ,In trên bao bì,SSD,21.500.000 đ
+Lenovo,Legion Y Series,Mới,7-12 tháng,15 - 16.9 inch,Intel Core i9,16 GB,NVIDIA,1 TB,Mỹ,In trên bao bì,SSD,51.000.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Intel Core i5,8 GB,Onboard,512 GB,Nước khác,In trên bao bì,SSD,8.990.000 đ
+Asus,ROG Strix Scar,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,10.800.000 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,3.800.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,3.900.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,8.000.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,4.500.000 đ
+Hãng khác,Dòng Khác,Đã sử dụng (chưa sửa chữa),1 tháng,11 - 12.9 inch,Intel Core i5,8 GB,Onboard,128 GB,Nhật Bản,In trên bao bì,SSD,3.300.000 đ
+Hãng khác,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,NVIDIA,250 GB,Trung Quốc,In trên bao bì,SSD,4.850.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,5.800.000 đ
+Asus,TUF Gaming,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,13.650.000 đ
+MSI,GF Series,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Intel Core i7,8 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,9.500.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i9,32 GB,AMD,1 TB,Đang cập nhật,In trên bao bì,SSD,18.900.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i5,4 GB,NVIDIA,500 GB,Mỹ,In trên bao bì,HDD,1.800.000 đ
+Microsoft,Surface Pro 8,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,19.900.000 đ
+Apple,MacBook Pro M1,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Khác,16 GB,Onboard,1 TB,Mỹ,In trên bao bì,SSD,37.500.000 đ
+Asus,TUF Gaming,Đã sử dụng (chưa sửa chữa),Còn bảo hành,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,15.900.000 đ
+Lenovo,IdeaPad,Đã sử dụng (chưa sửa chữa),4-6 tháng,17 - 18.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,6.900.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,4.700.000 đ
+Dell,Latitude,Đã sử dụng (qua sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,NaN,256 GB,Mỹ,In trên bao bì,SSD,2.600.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,1 TB,Mỹ,In trên bao bì,SSD,17.900.000 đ
+Microsoft,Surface Laptop,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,32 GB,Onboard,1 TB,Việt Nam,In trên bao bì,SSD,180.000.000 đ
+Apple,MacBook Pro,Đã sử dụng (qua sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Khác,256 GB,Việt Nam,In trên bao bì,SSD,3.800.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,4.700.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Intel Core i5,8 GB,Onboard,512 GB,Nước khác,In trên bao bì,SSD,8.990.000 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,3.800.000 đ
+Sony,Vaio Series,Đã sử dụng (qua sửa chữa),Bảo hành hãng,11 - 12.9 inch,Intel Core i5,8 GB,NVIDIA,500 GB,Mỹ,In trên bao bì,HDD,700.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,NaN,12.500.000 đ
+Asus,TUF Gaming,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,13.650.000 đ
+MSI,GF Series,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Intel Core i7,8 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,9.500.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i9,32 GB,AMD,1 TB,Đang cập nhật,In trên bao bì,SSD,18.900.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i5,4 GB,NVIDIA,500 GB,Mỹ,In trên bao bì,HDD,1.800.000 đ
+HP,Victus,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,8 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,12.900.000 đ
+Hãng khác,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,800.000 đ
+Microsoft,Surface Pro 8,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,19.900.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,8 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,1.900.000 đ
+Asus,TUF Gaming,Đã sử dụng (chưa sửa chữa),Còn bảo hành,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,15.900.000 đ
+Dell,G Series,Mới,7-12 tháng,15 - 16.9 inch,Intel Core i9,16 GB,NVIDIA,1 TB,Mỹ,In trên bao bì,SSD,32.000.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,1 TB,Mỹ,In trên bao bì,SSD,17.900.000 đ
+Apple,MacBook Pro,Đã sử dụng (qua sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Khác,256 GB,Việt Nam,In trên bao bì,SSD,3.800.000 đ
+Microsoft,Surface,Mới,7-12 tháng,13 - 14.9 inch,Khác,16 GB,Khác,1 TB,Mỹ,In trên bao bì,SSD,36.000.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i9,32 GB,AMD,512 GB,Mỹ,In trên bao bì,SSD,17.900.000 đ
+Apple,MacBook Pro M1,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Khác,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,28.500.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,8.800.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,16 GB,AMD,512 GB,Mỹ,In trên bao bì,SSD,13.900.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i9,32 GB,NVIDIA,1 TB,Mỹ,In trên bao bì,SSD,20.500.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Khác,256 GB,Việt Nam,In trên bao bì,SSD,3.800.000 đ
+MSI,GF Series,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,256 GB,Việt Nam,In trên bao bì,SSD,10.500.000 đ
+Acer,Nitro 5,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,8 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,15.900.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,4.500.000 đ
+Acer,Nitro 5,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Ryzen 5,8 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,13.900.000 đ
+Asus,TUF Gaming,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,14.900.000 đ
+Dell,XPS,Đã sử dụng (qua sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,11.500.000 đ
+HP,Victus,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,8 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,12.900.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,8 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,1.900.000 đ
+HP,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,17 - 18.9 inch,NaN,4 GB,Onboard,250 GB,Việt Nam,In trên bao bì,SSD,850.000 đ
+Apple,Macbook Pro M3,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Khác,32 GB,AMD,1 TB,Đang cập nhật,In trên bao bì,SSD,65.000.000 đ
+Asus,X Series,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i3,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,3.999.999 đ
+Dell,XPS,Đã sử dụng (qua sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,11.500.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i9,32 GB,AMD,512 GB,Mỹ,In trên bao bì,SSD,17.900.000 đ
+HP,Elitebook,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,6 GB,NaN,128 GB,Đang cập nhật,In trên bao bì,SSD,600.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,8.800.000 đ
+Lenovo,Legion Y Series,Mới,Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Trung Quốc,In trên bao bì,NaN,80.000.000 đ
+Dell,G Series,Mới,7-12 tháng,15 - 16.9 inch,Intel Core i9,16 GB,NVIDIA,1 TB,Mỹ,In trên bao bì,SSD,32.000.000 đ
+HP,Envy,Mới,1 tháng,15 - 16.9 inch,Khác,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,14.800.000 đ
+HP,Elitebook,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,6.700.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,5.900.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,9.200.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,AMD,16 GB,AMD,512 GB,Trung Quốc,In trên bao bì,SSD,9.000.000 đ
+Microsoft,Dòng khác,Mới,Còn bảo hành,13 - 14.9 inch,Khác,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,26.500.000 đ
+Microsoft,Surface,Mới,7-12 tháng,13 - 14.9 inch,Khác,16 GB,Khác,1 TB,Mỹ,In trên bao bì,SSD,36.000.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,4.500.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,6.800.000 đ
+HP,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,17 - 18.9 inch,NaN,4 GB,Onboard,250 GB,Việt Nam,In trên bao bì,SSD,850.000 đ
+Samsung,Galaxy Book,Mới,Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Việt Nam,In trên bao bì,NaN,14.800.000 đ
+Asus,X Series,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i3,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,3.999.999 đ
+Apple,MacBook Air M1,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Khác,8 GB,Khác,256 GB,Việt Nam,In trên bao bì,SSD,13.500.000 đ
+Microsoft,Surface Laptop,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,10.000.000 đ
+Lenovo,Legion Y Series,Mới,Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Trung Quốc,In trên bao bì,NaN,80.000.000 đ
+HP,Envy,Mới,1 tháng,15 - 16.9 inch,Khác,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,14.800.000 đ
+Dell,Latitude,Mới,Bảo hành hãng,NaN,Intel Core i5,16 GB,NaN,256 GB,Nhật Bản,In trên bao bì,SSD,6.200.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i7,16 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,NaN,7.000.000 đ
+Lenovo,IdeaPad,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i3,8 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,4.500.000 đ
+Microsoft,Surface,Mới,Bảo hành hãng,13 - 14.9 inch,Intel Core i7,32 GB,AMD,1 TB,Việt Nam,In trên bao bì,NaN,16.900.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,11 - 12.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,3.900.000 đ
+Microsoft,Dòng khác,Mới,Còn bảo hành,13 - 14.9 inch,Khác,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,26.500.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,17 - 18.9 inch,Intel Xeon,> 32GB,NVIDIA,1 TB,Mỹ,In trên bao bì,SSD,26.000.000 đ
+HP,Dòng Khác,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i3,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,3.500.000 đ
+HP,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i3,4 GB,NaN,128 GB,Đang cập nhật,In trên bao bì,SSD,1.450.000 đ
+Dell,Precision,Mới,Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Mỹ,In trên bao bì,NaN,16.900.000 đ
+Microsoft,Surface,Mới,Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Trung Quốc,In trên bao bì,NaN,44.490.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,6.800.000 đ
+Dell,Precision,Mới,Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Mỹ,In trên bao bì,NaN,16.900.000 đ
+Asus,ROG Strix Scar,Đã sử dụng (chưa sửa chữa),4-6 tháng,17 - 18.9 inch,Intel Core i9,16 GB,NVIDIA,> 1 TB,Việt Nam,In trên bao bì,SSD,29.800.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,6.300.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i3,4 GB,AMD,750 GB,Việt Nam,In trên bao bì,SSD,1.990.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,6.500.000 đ
+Lenovo,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Khác,NaN,NVIDIA,1 TB,Hàn Quốc,In trên bao bì,SSD,30.500.000 đ
+Lenovo,IdeaPad,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i3,8 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,4.500.000 đ
+Dell,Inspiron,Mới,>12 tháng,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,1 TB,Trung Quốc,In trên bao bì,SSD,18.490.000 đ
+Apple,MacBook Air,Đã sử dụng (qua sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,500 GB,Mỹ,In trên bao bì,SSD,7.000.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,6.000.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,21.490.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,3.300.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,5.100.000 đ
+Microsoft,Surface,Mới,Bảo hành hãng,13 - 14.9 inch,Intel Core i7,32 GB,AMD,1 TB,Việt Nam,In trên bao bì,NaN,16.900.000 đ
+Dell,XPS,Đã sử dụng (qua sửa chữa),Hết bảo hành,13 - 14.9 inch,Ryzen 3,4 GB,Onboard,256 GB,Trung Quốc,In trên bao bì,SSD,1.500.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i3,6 GB,Khác,128 GB,Việt Nam,In trên bao bì,SSD,1.450.000 đ
+Acer,Aspire,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Celeron,2 GB,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,1.300.000 đ
+Apple,MacBook Pro M2,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,NaN,NaN,NaN,NaN,Việt Nam,In trên bao bì,NaN,40.000.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,21.490.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i3,4 GB,AMD,750 GB,Việt Nam,In trên bao bì,SSD,1.990.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,17.990.000 đ
+Acer,Aspire,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Celeron,2 GB,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,1.300.000 đ
+Apple,MacBook Air,Đã sử dụng (qua sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,500 GB,Mỹ,In trên bao bì,SSD,7.000.000 đ
+Lenovo,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,28.500.000 đ
+Microsoft,Surface,Đã sử dụng (chưa sửa chữa),Còn bảo hành,13 - 14.9 inch,Intel Core i7,16 GB,NaN,512 GB,Mỹ,In trên bao bì,NaN,9.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,6.700.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,6.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,6.990.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,5.500.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i7,8 GB,NVIDIA,NaN,Đang cập nhật,In trên bao bì,NaN,1.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,13.900.000 đ
+Razer,Blade,Mới,Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Mỹ,In trên bao bì,NaN,45.000.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,9.990.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,5.100.000 đ
+Lenovo,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Khác,NaN,NVIDIA,1 TB,Hàn Quốc,In trên bao bì,SSD,30.500.000 đ
+HP,Dòng Khác,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i5,8 GB,Onboard,128 GB,Đang cập nhật,In trên bao bì,SSD,4.500.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i5,16 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,12.200.000 đ
+Apple,MacBook Pro M1 Touch Bar,Đã sử dụng (chưa sửa chữa),4-6 tháng,13 - 14.9 inch,Khác,16 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,22.000.000 đ
+Lenovo,IdeaPad,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,4.500.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i5,16 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,12.200.000 đ
+HP,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Pentium,4 GB,Onboard,128 GB,Đang cập nhật,In trên bao bì,SSD,1.200.000 đ
+Lenovo,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,28.500.000 đ
+Apple,MacBook Air M1,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Khác,16 GB,Onboard,1 TB,Đang cập nhật,In trên bao bì,SSD,18.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,6.700.000 đ
+Microsoft,Surface,Đã sử dụng (chưa sửa chữa),Còn bảo hành,13 - 14.9 inch,Intel Core i7,16 GB,NaN,512 GB,Mỹ,In trên bao bì,NaN,9.000.000 đ
+Lenovo,Yoga,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i3,4 GB,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,450.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),4-6 tháng,11 - 12.9 inch,Intel Core i5,8 GB,Khác,256 GB,Mỹ,In trên bao bì,SSD,4.490.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i7,16 GB,AMD,512 GB,Đang cập nhật,In trên bao bì,SSD,14.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,5.499.000 đ
+Dell,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,17 - 18.9 inch,Intel Core i5,8 GB,Khác,128 GB,Việt Nam,In trên bao bì,SSD,3.000.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,9.990.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,3.600.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,11.990.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Còn bảo hành,13 - 14.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,6.800.000 đ
+Acer,Aspire,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i3,6 GB,Khác,1 TB,Nước khác,In trên bao bì,HDD,800.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,8 GB,Onboard,128 GB,Mỹ,In trên bao bì,SSD,3.200.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,2.700.000 đ
+Apple,MacBook Pro M1 Touch Bar,Đã sử dụng (chưa sửa chữa),4-6 tháng,13 - 14.9 inch,Khác,16 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,22.000.000 đ
+Lenovo,IdeaPad,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,4.500.000 đ
+HP,ZBook,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i7,16 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,8.800.000 đ
+HP,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Pentium,4 GB,Onboard,128 GB,Đang cập nhật,In trên bao bì,SSD,1.200.000 đ
+Lenovo,Yoga,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i3,4 GB,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,450.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,8 GB,Khác,256 GB,Mỹ,In trên bao bì,SSD,6.550.000 đ
+HP,Elitebook,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,4.599.000 đ
+Apple,MacBook Pro M2,Đã sử dụng (chưa sửa chữa),1 tháng,11 - 12.9 inch,NaN,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,21.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i7,8 GB,NVIDIA,128 GB,Nước khác,In trên bao bì,SSD,2.300.000 đ
+HP,ZBook,Mới,7-12 tháng,15 - 16.9 inch,Intel Core i7,32 GB,NVIDIA,1 TB,Mỹ,In trên bao bì,SSD,36.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,5.900.000 đ
+Acer,Nitro 5,Đã sử dụng (chưa sửa chữa),Hết bảo hành,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,9.900.000 đ
+Dell,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,17 - 18.9 inch,Intel Core i5,8 GB,Khác,128 GB,Việt Nam,In trên bao bì,SSD,3.000.000 đ
+HP,ProBook,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i3,8 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,5.600.000 đ
+Dell,Inspiron,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,2.700.000 đ
+HP,Elitebook,Mới,Bảo hành hãng,11 - 12.9 inch,Intel Core i5,8 GB,Khác,128 GB,Mỹ,In trên bao bì,SSD,2.500.000 đ
+Acer,Aspire,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i3,6 GB,Khác,1 TB,Nước khác,In trên bao bì,HDD,800.000 đ
+Microsoft,Surface Pro 9,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i5,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,19.500.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i7,32 GB,AMD,1 TB,Đang cập nhật,In trên bao bì,SSD,18.500.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,5.700.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),4-6 tháng,17 - 18.9 inch,Intel Core i7,32 GB,NVIDIA,256 GB,Nước khác,In trên bao bì,SSD,4.999.000 đ
+Sony,F Series,Mới,3 tháng,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,14.500.000 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i7,NaN,NaN,256 GB,Nhật Bản,In trên bao bì,SSD,5.500.000 đ
+Acer,Nitro 5,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,13.700.000 đ
+HP,ProBook,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,17 - 18.9 inch,Intel Core i5,4 GB,AMD,250 GB,Đang cập nhật,In trên bao bì,HDD,650.000 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Khác,128 GB,Việt Nam,In trên bao bì,SSD,7.500.000 đ
+HP,Envy,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Ryzen 7,16 GB,AMD,512 GB,Mỹ,In trên bao bì,SSD,12.900.000 đ
+Apple,MacBook Pro M1 Touch Bar,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,NaN,16 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,19.900.000 đ
+Apple,MacBook Pro M2,Đã sử dụng (chưa sửa chữa),1 tháng,11 - 12.9 inch,NaN,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,21.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i7,8 GB,NVIDIA,128 GB,Nước khác,In trên bao bì,SSD,2.300.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,4 GB,Onboard,320 GB,Mỹ,In trên bao bì,NaN,850.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,11 - 12.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,4.700.000 đ
+Dell,Precision Mobile Workstations,Đã sử dụng (chưa sửa chữa),Còn bảo hành,15 - 16.9 inch,Intel Core i7,> 32GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,12.900.000 đ
+HP,Elitebook,Đã sử dụng (chưa sửa chữa),Còn bảo hành,13 - 14.9 inch,Ryzen 5,8 GB,Onboard,128 GB,Đang cập nhật,In trên bao bì,SSD,3.990.000 đ
+HP,ProBook,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i3,8 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,5.600.000 đ
+Dell,Inspiron,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,2.700.000 đ
+HP,Elitebook,Mới,Bảo hành hãng,11 - 12.9 inch,Intel Core i5,8 GB,Khác,128 GB,Mỹ,In trên bao bì,SSD,2.500.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,256 GB,Mỹ,In trên bao bì,SSD,3.350.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,5.700.000 đ
+Lenovo,IdeaPad,Đã sử dụng (chưa sửa chữa),4-6 tháng,13 - 14.9 inch,AMD,16 GB,AMD,1 TB,Trung Quốc,In trên bao bì,SSD,15.000.000 đ
+Dell,Vostro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i7,8 GB,Onboard,512 GB,Đang cập nhật,In trên bao bì,SSD,8.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,8 GB,NVIDIA,256 GB,Mỹ,In trên bao bì,SSD,8.300.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,24.900.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),4-6 tháng,17 - 18.9 inch,Intel Core i7,32 GB,NVIDIA,256 GB,Nước khác,In trên bao bì,SSD,4.999.000 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i7,NaN,NaN,256 GB,Nhật Bản,In trên bao bì,SSD,5.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Còn bảo hành,11 - 12.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,3.500.000 đ
+HP,Envy,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Ryzen 7,16 GB,AMD,512 GB,Mỹ,In trên bao bì,SSD,12.900.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,11 - 12.9 inch,Intel Core i3,8 GB,Onboard,128 GB,Đang cập nhật,In trên bao bì,SSD,3.500.000 đ
+HP,Elitebook,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,7.500.000 đ
+Dell,Latitude,Mới,Còn bảo hành,13 - 14.9 inch,Intel Core i7,32 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,6.500.000 đ
+Acer,Predator,Đã sử dụng (chưa sửa chữa),4-6 tháng,13 - 14.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,13.950.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,11 - 12.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,4.700.000 đ
+Dell,Precision Mobile Workstations,Đã sử dụng (chưa sửa chữa),Còn bảo hành,15 - 16.9 inch,Intel Core i7,> 32GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,12.900.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),>12 tháng,15 - 16.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,9.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,128 GB,Mỹ,In trên bao bì,SSD,2.800.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Còn bảo hành,13 - 14.9 inch,Intel Core i5,4 GB,Onboard,500 GB,Mỹ,In trên bao bì,HDD,1.600.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,8 GB,NVIDIA,> 1 TB,Việt Nam,In trên bao bì,SSD,2.800.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Intel Core i9,16 GB,AMD,512 GB,Mỹ,In trên bao bì,SSD,13.500.000 đ
+Lenovo,IdeaPad,Đã sử dụng (chưa sửa chữa),4-6 tháng,13 - 14.9 inch,AMD,16 GB,AMD,1 TB,Trung Quốc,In trên bao bì,SSD,15.000.000 đ
+Dell,Vostro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i7,8 GB,Onboard,512 GB,Đang cập nhật,In trên bao bì,SSD,8.500.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),>12 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,6.300.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,7.300.000 đ
+Sony,F Series,Đã sử dụng (chưa sửa chữa),Còn bảo hành,15 - 16.9 inch,Intel Core i7,8 GB,NVIDIA,256 GB,Việt Nam,In trên bao bì,SSD,3.500.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,24.900.000 đ
+Dell,G Series,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,256 GB,Trung Quốc,In trên bao bì,SSD,10.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,4.900.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),4-6 tháng,13 - 14.9 inch,Intel Core i7,32 GB,Onboard,NaN,Mỹ,In trên bao bì,SSD,9.500.000 đ
+Asus,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Ryzen 7,8 GB,NVIDIA,512 GB,Đang cập nhật,In trên bao bì,SSD,9.600.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,11 - 12.9 inch,Intel Core i3,8 GB,Onboard,128 GB,Đang cập nhật,In trên bao bì,SSD,3.500.000 đ
+HP,ZBook,Đã sử dụng (chưa sửa chữa),4-6 tháng,17 - 18.9 inch,Intel Core i7,32 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,12.900.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Còn bảo hành,11 - 12.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,3.500.000 đ
+Sony,Vaio Series,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,5.900.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Intel Xeon,32 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,15.500.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,5.500.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,512 GB,Đang cập nhật,In trên bao bì,SSD,12.900.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Intel Core i9,16 GB,AMD,512 GB,Mỹ,In trên bao bì,SSD,13.500.000 đ
+Apple,MacBook Pro,Mới,3 tháng,15 - 16.9 inch,Intel Core i7,16 GB,AMD,512 GB,Mỹ,In trên bao bì,SSD,14.500.000 đ
+Acer,Aspire,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,> 1 TB,Đài Loan,In trên bao bì,SSD,7.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,256 GB,Mỹ,In trên bao bì,SSD,9.000.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,500 GB,Mỹ,In trên bao bì,SSD,5.200.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i9,32 GB,AMD,1 TB,Đang cập nhật,In trên bao bì,SSD,17.990.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,5.500.000 đ
+Asus,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Ryzen 7,8 GB,NVIDIA,512 GB,Đang cập nhật,In trên bao bì,SSD,9.600.000 đ
+MSI,GF Series,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,NaN,8 GB,NVIDIA,256 GB,Đang cập nhật,In trên bao bì,SSD,9.900.000 đ
+Dell,XPS,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,8.800.000 đ
+Dell,Vostro,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i5,8 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,3.700.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,7.400.000 đ
+Lenovo,Legion Y Series,Đã sử dụng (chưa sửa chữa),Còn bảo hành,15 - 16.9 inch,Ryzen 7,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,19.890.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i3,8 GB,Onboard,128 GB,Mỹ,In trên bao bì,SSD,7.500.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),>12 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,6.300.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Ryzen 9,8 GB,AMD,256 GB,Nhật Bản,In trên bao bì,SSD,10.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,11.000.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Ryzen 7,16 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,NaN,13.900.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,256 GB,Mỹ,In trên bao bì,SSD,7.700.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,11 - 12.9 inch,Intel Core i3,8 GB,Onboard,128 GB,Đang cập nhật,In trên bao bì,SSD,3.500.000 đ
+Dell,Inspiron,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i3,8 GB,Khác,256 GB,Đang cập nhật,In trên bao bì,SSD,2.500.000 đ
+Asus,ASUSPRO,Mới,Hết bảo hành,15 - 16.9 inch,Intel Core i3,8 GB,NVIDIA,128 GB,Việt Nam,In trên bao bì,SSD,3.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,7.400.000 đ
+Apple,MacBook Air M1,Mới,Còn bảo hành,13 - 14.9 inch,Khác,8 GB,Khác,256 GB,Nước khác,In trên bao bì,SSD,12.490.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,11.000.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Ryzen 7,16 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,NaN,13.900.000 đ
+Apple,Dòng Khác,Đã sử dụng (chưa sửa chữa),Còn bảo hành,>= 21 inch,Khác,16 GB,Khác,256 GB,Việt Nam,In trên bao bì,SSD,21.000.000 đ
+Apple,MacBook Air M2,Mới,Còn bảo hành,13 - 14.9 inch,Khác,8 GB,Khác,256 GB,Nước khác,In trên bao bì,SSD,17.890.000 đ
+HP,Elitebook,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,32 GB,NVIDIA,500 GB,Việt Nam,In trên bao bì,SSD,7.000.000 đ
+Lenovo,IdeaPad,Đã sử dụng (chưa sửa chữa),1 tháng,11 - 12.9 inch,Intel Celeron,4 GB,Onboard,128 GB,Nhật Bản,In trên bao bì,SSD,2.300.000 đ
+Apple,MacBook Air,Mới,Còn bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,128 GB,Mỹ,In trên bao bì,SSD,4.990.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,256 GB,Mỹ,In trên bao bì,SSD,9.000.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,500 GB,Mỹ,In trên bao bì,SSD,5.200.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,8 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,7.300.000 đ
+Asus,ROG Strix Scar,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,1 TB,Đang cập nhật,In trên bao bì,SSD,7.900.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),Còn bảo hành,15 - 16.9 inch,Intel Core i7,16 GB,AMD,512 GB,Mỹ,In trên bao bì,SSD,7.990.000 đ
+MSI,Crosshair/ Pulse Series,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,17.800.000 đ
+HP,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,19 - 20.9 inch,Intel Core i3,8 GB,AMD,128 GB,Nhật Bản,In trên bao bì,SSD,3.500.000 đ
+Apple,MacBook Air M2,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,NaN,8 GB,NaN,512 GB,Mỹ,In trên bao bì,NaN,22.790.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i9,32 GB,NVIDIA,512 GB,Đang cập nhật,In trên bao bì,SSD,18.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,4.900.000 đ
+Lenovo,IdeaPad,Đã sử dụng (chưa sửa chữa),1 tháng,11 - 12.9 inch,Intel Celeron,4 GB,Onboard,128 GB,Nhật Bản,In trên bao bì,SSD,2.300.000 đ
+Asus,ROG Strix Scar,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,1 TB,Đang cập nhật,In trên bao bì,SSD,7.900.000 đ
+Apple,MacBook Air M2,Mới,Còn bảo hành,13 - 14.9 inch,Khác,8 GB,Khác,256 GB,Nước khác,In trên bao bì,SSD,17.890.000 đ
+Dell,Inspiron,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i5,8 GB,NaN,128 GB,Đang cập nhật,In trên bao bì,SSD,1.500.000 đ
+Apple,MacBook Air,Mới,Còn bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,128 GB,Mỹ,In trên bao bì,SSD,4.990.000 đ
+Asus,ASUSPRO,Mới,Hết bảo hành,15 - 16.9 inch,Intel Core i3,8 GB,NVIDIA,128 GB,Việt Nam,In trên bao bì,SSD,3.000.000 đ
+HP,Chromebook,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i3,8 GB,Onboard,256 GB,Trung Quốc,In trên bao bì,SSD,5.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,11 - 12.9 inch,Intel Core i5,8 GB,NaN,128 GB,Đang cập nhật,In trên bao bì,SSD,4.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,8.600.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i9,16 GB,Onboard,512 GB,Nhật Bản,In trên bao bì,SSD,16.800.000 đ
+Dell,Vostro,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i3,4 GB,Onboard,128 GB,Việt Nam,In trên bao bì,SSD,1.349.000 đ
+Apple,MacBook Pro M1,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Khác,8 GB,NVIDIA,256 GB,Việt Nam,In trên bao bì,SSD,14.900.000 đ
+HP,Pavilion,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,8 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,15.900.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),Còn bảo hành,15 - 16.9 inch,Intel Core i7,16 GB,AMD,512 GB,Mỹ,In trên bao bì,SSD,7.990.000 đ
+Toshiba,Dòng Khác,Mới,3 tháng,11 - 12.9 inch,Intel Core i5,8 GB,Onboard,128 GB,Nhật Bản,In trên bao bì,SSD,2.999.999 đ
+Dell,Vostro,Đã sử dụng (chưa sửa chữa),Còn bảo hành,15 - 16.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,5.500.000 đ
+Apple,MacBook Air M1,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,8.000.000 đ
+HP,Pavilion,Đã sử dụng (chưa sửa chữa),7-12 tháng,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,256 GB,Đang cập nhật,In trên bao bì,SSD,6.800.000 đ
+Dell,Vostro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i5,8 GB,AMD,1 TB,Mỹ,In trên bao bì,HDD,4.800.000 đ
+Apple,MacBook Air M1,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,8.000.000 đ
+MSI,GL Series,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,7.500.000 đ
+Dell,Inspiron,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i5,8 GB,NaN,128 GB,Đang cập nhật,In trên bao bì,SSD,1.500.000 đ
+Dell,Vostro,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i5,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,1.500.000 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,NaN,8 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,4.500.000 đ
+Dell,Vostro,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i3,4 GB,Onboard,128 GB,Việt Nam,In trên bao bì,SSD,1.349.000 đ
+Apple,MacBook Pro M1,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Khác,8 GB,NVIDIA,256 GB,Việt Nam,In trên bao bì,SSD,14.900.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,128 GB,Nước khác,In trên bao bì,SSD,2.000.000 đ
+Apple,MacBook Air M2,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,NaN,8 GB,NaN,512 GB,Mỹ,In trên bao bì,NaN,22.790.000 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,8 GB,NaN,256 GB,Mỹ,In trên bao bì,NaN,9.490.000 đ
+Asus,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,17 - 18.9 inch,Intel Pentium,8 GB,NaN,128 GB,Đang cập nhật,In trên bao bì,SSD,1.200.000 đ
+Toshiba,Satellite Series,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,8 GB,NaN,128 GB,Đang cập nhật,In trên bao bì,SSD,2.000.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,9.500.000 đ
+Dell,G Series,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,256 GB,Nước khác,In trên bao bì,SSD,12.500.000 đ
+Acer,Aspire,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Ryzen 5,8 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,10.500.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),1 tháng,11 - 12.9 inch,Intel Core i5,8 GB,Onboard,128 GB,Nhật Bản,In trên bao bì,SSD,1.300.000 đ
+Dell,Vostro,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i5,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,1.500.000 đ
+HP,Envy,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,4 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,3.400.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),3 tháng,17 - 18.9 inch,Intel Core i7,8 GB,Onboard,128 GB,Mỹ,In trên bao bì,SSD,4.300.000 đ
+Dell,Inspiron,Đã sử dụng (qua sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,> 1 TB,Việt Nam,In trên bao bì,SSD,5.000.000 đ
+Microsoft,Surface Pro 5,Đã sử dụng (chưa sửa chữa),1 tháng,11 - 12.9 inch,Intel Core i5,4 GB,Onboard,128 GB,Nhật Bản,In trên bao bì,SSD,3.900.000 đ
+Asus,Zephyrus,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,50.800.000 đ
+HP,Pavilion,Đã sử dụng (chưa sửa chữa),7-12 tháng,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,256 GB,Đang cập nhật,In trên bao bì,SSD,6.800.000 đ
+Asus,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,17 - 18.9 inch,Intel Pentium,8 GB,NaN,128 GB,Đang cập nhật,In trên bao bì,SSD,1.200.000 đ
+Asus,K Series,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i7,16 GB,Onboard,640 GB,Đài Loan,In trên bao bì,SSD,3.600.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,9.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i3,4 GB,Onboard,500 GB,Đang cập nhật,In trên bao bì,HDD,750.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,16 GB,Khác,256 GB,Nhật Bản,In trên bao bì,SSD,8.000.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,9.000.000 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,8 GB,NaN,256 GB,Mỹ,In trên bao bì,NaN,9.490.000 đ
+Dell,G Series,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,256 GB,Nước khác,In trên bao bì,SSD,12.500.000 đ
+Asus,A series,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i3,4 GB,NaN,500 GB,Đang cập nhật,In trên bao bì,HDD,1.200.000 đ
+Toshiba,Dòng Khác,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,NVIDIA,256 GB,Nhật Bản,In trên bao bì,SSD,4.599.999 đ
+HP,ZBook,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i7,16 GB,Khác,256 GB,Mỹ,In trên bao bì,SSD,4.900.000 đ
+Apple,MacBook Pro M1 Touch Bar,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Khác,16 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,18.650.000 đ
+HP,ZBook,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Xeon,16 GB,NVIDIA,512 GB,Nhật Bản,In trên bao bì,SSD,7.900.000 đ
+Apple,MacBook Pro M1 Touch Bar,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,16 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,NaN,19.800.000 đ
+Asus,TUF Gaming,Đã sử dụng (chưa sửa chữa),Còn bảo hành,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,1 TB,Đang cập nhật,In trên bao bì,SSD,16.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),7-12 tháng,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,2.999.000 đ
+Asus,K Series,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i7,16 GB,Onboard,640 GB,Đài Loan,In trên bao bì,SSD,3.600.000 đ
+Apple,MacBook Pro M2,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,32 GB,NaN,512 GB,Mỹ,In trên bao bì,NaN,37.790.000 đ
+Apple,MacBook Pro M1,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Khác,8 GB,Khác,256 GB,Việt Nam,In trên bao bì,SSD,13.500.000 đ
+Asus,Zephyrus,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,50.800.000 đ
+Dell,Inspiron,Mới,>12 tháng,15 - 16.9 inch,Intel Core i9,16 GB,NVIDIA,1 TB,Việt Nam,In trên bao bì,SSD,21.890.000 đ
+Acer,Nitro 5,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Ryzen 5,8 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,11.800.000 đ
+Apple,MacBook Air M1,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,16 GB,NaN,256 GB,Việt Nam,In trên bao bì,NaN,18.490.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,1.700.000 đ
+Dell,Inspiron,Đã sử dụng (qua sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,> 1 TB,Việt Nam,In trên bao bì,SSD,5.000.000 đ
+Dell,XPS,Mới,3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,7.900.000 đ
+Hãng khác,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,11 - 12.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,3.599.999 đ
+Apple,Macbook Pro M3,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,16 GB,NaN,512 GB,Việt Nam,In trên bao bì,NaN,41.790.000 đ
+HP,Envy,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,5.500.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i3,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,3.500.000 đ
+HP,Envy,Mới,3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,17.500.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,16 GB,NaN,128 GB,Trung Quốc,In trên bao bì,SSD,7.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i5,8 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,5.500.000 đ
+Hãng khác,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,256 GB,Nhật Bản,In trên bao bì,SSD,6.999.999 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,6.300.000 đ
+Asus,X Series,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i3,4 GB,Onboard,< 128 GB,Đang cập nhật,In trên bao bì,SSD,2.400.000 đ
+Dell,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,17 - 18.9 inch,Intel Core i5,8 GB,Khác,< 128 GB,Nước khác,In trên bao bì,SSD,3.000.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,9.900.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,1.700.000 đ
+Dell,Inspiron,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Celeron,4 GB,Onboard,128 GB,Mỹ,In trên bao bì,SSD,990.000 đ
+Dell,Vostro,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,15.500.000 đ
+Dell,XPS,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Khác,256 GB,Đang cập nhật,In trên bao bì,SSD,12.000.000 đ
+Apple,MacBook Pro M1,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Khác,16 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,31.800.000 đ
+MSI,GP Series,Đã sử dụng (chưa sửa chữa),Hết bảo hành,17 - 18.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Nước khác,In trên bao bì,SSD,22.800.000 đ
+Lenovo,Yoga,Mới,7-12 tháng,13 - 14.9 inch,NaN,16 GB,Khác,512 GB,Mỹ,In trên bao bì,SSD,9.000.000 đ
+Apple,Macbook Air M3,Mới,>12 tháng,13 - 14.9 inch,Khác,16 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,34.500.000 đ
+HP,Notebook,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,5.400.000 đ
+Acer,Nitro 5,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Ryzen 5,8 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,11.800.000 đ
+MSI,GL Series,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,17.500.000 đ
+HP,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,2.500.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,16 GB,NaN,128 GB,Trung Quốc,In trên bao bì,SSD,7.500.000 đ
+HP,Elitebook,Đã sử dụng (chưa sửa chữa),4-6 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Khác,256 GB,Nước khác,In trên bao bì,SSD,5.999.000 đ
+Asus,X Series,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,256 GB,Việt Nam,In trên bao bì,SSD,4.300.000 đ
+Microsoft,Surface Pro 5,Đã sử dụng (chưa sửa chữa),Hết bảo hành,11 - 12.9 inch,Intel Core i5,8 GB,Khác,256 GB,Nhật Bản,In trên bao bì,SSD,3.320.000 đ
+Acer,Dòng Khác,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i9,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,22.000.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,6.300.000 đ
+Dell,Alienware,Mới,7-12 tháng,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,256 GB,Mỹ,In trên bao bì,SSD,14.500.000 đ
+Microsoft,Surface Pro 5,Đã sử dụng (chưa sửa chữa),Hết bảo hành,11 - 12.9 inch,Intel Core i5,8 GB,Khác,256 GB,Nhật Bản,In trên bao bì,SSD,3.340.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,4.600.000 đ
+Microsoft,Surface Pro 5,Đã sử dụng (chưa sửa chữa),Hết bảo hành,11 - 12.9 inch,Intel Core i5,8 GB,Khác,256 GB,Nhật Bản,In trên bao bì,SSD,3.330.000 đ
+Dell,Inspiron,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,6.500.000 đ
+Asus,Zephyrus,Mới,7-12 tháng,13 - 14.9 inch,Ryzen 5,NaN,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,12.700.000 đ
+Dell,Vostro,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,15.500.000 đ
+Lenovo,Yoga,Mới,7-12 tháng,13 - 14.9 inch,NaN,16 GB,Khác,512 GB,Mỹ,In trên bao bì,SSD,9.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Hết bảo hành,11 - 12.9 inch,Intel Core i7,16 GB,Khác,512 GB,Đang cập nhật,In trên bao bì,SSD,8.000.000 đ
+HP,Elitebook,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,4 GB,Onboard,128 GB,Việt Nam,In trên bao bì,SSD,1.850.000 đ
+Microsoft,Surface Laptop,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Thái Lan,In trên bao bì,SSD,7.500.000 đ
+Lenovo,Legion Y Series,Mới,7-12 tháng,15 - 16.9 inch,Intel Core i7,32 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,17.500.000 đ
+Dell,XPS,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,7.900.000 đ
+MSI,GL Series,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,17.500.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),4-6 tháng,11 - 12.9 inch,Intel Core i5,8 GB,Khác,128 GB,Nước khác,In trên bao bì,SSD,3.990.000 đ
+Dell,Precision,Mới,Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Việt Nam,In trên bao bì,NaN,7.490.000 đ
+Asus,X Series,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,256 GB,Việt Nam,In trên bao bì,SSD,4.300.000 đ
+Microsoft,Surface Pro 5,Đã sử dụng (chưa sửa chữa),Hết bảo hành,11 - 12.9 inch,Intel Core i5,8 GB,Khác,256 GB,Nhật Bản,In trên bao bì,SSD,3.320.000 đ
+Acer,Swift,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,5.999.999 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,4.990.000 đ
+Acer,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,AMD,6 GB,Onboard,250 GB,Trung Quốc,In trên bao bì,HDD,1.250.000 đ
+Apple,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,128 GB,Nước khác,In trên bao bì,SSD,5.000.000 đ
+Microsoft,Surface Pro 5,Đã sử dụng (chưa sửa chữa),Hết bảo hành,11 - 12.9 inch,Intel Core i5,8 GB,Khác,256 GB,Nhật Bản,In trên bao bì,SSD,3.330.000 đ
+Lenovo,IdeaPad,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i3,8 GB,Onboard,< 128 GB,Việt Nam,In trên bao bì,SSD,1.500.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,5.900.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i5,8 GB,Khác,500 GB,Việt Nam,In trên bao bì,SSD,9.650.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Khác,256 GB,Nước khác,In trên bao bì,SSD,2.500.000 đ
+HP,Elitebook,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,8.900.000 đ
+Asus,G Series,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i5,32 GB,NVIDIA,256 GB,Trung Quốc,In trên bao bì,SSD,9.800.000 đ
+Dell,Latitude,Mới,3 tháng,13 - 14.9 inch,Intel Core i5,16 GB,Khác,256 GB,Nhật Bản,In trên bao bì,SSD,3.000.000 đ
+Lenovo,Legion Y Series,Mới,7-12 tháng,15 - 16.9 inch,Intel Core i7,32 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,17.500.000 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,5.000.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),Hết bảo hành,11 - 12.9 inch,Intel Core i5,6 GB,Onboard,250 GB,Trung Quốc,In trên bao bì,SSD,2.500.000 đ
+Lenovo,Yoga,Đã sử dụng (chưa sửa chữa),Còn bảo hành,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,13.900.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Còn bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,NVIDIA,128 GB,Đang cập nhật,In trên bao bì,SSD,6.500.000 đ
+Dell,XPS,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,12.500.000 đ
+HP,ZBook,Đã sử dụng (chưa sửa chữa),7-12 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,17.900.000 đ
+Acer,Swift,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,5.999.999 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),Còn bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,NVIDIA,128 GB,Đang cập nhật,In trên bao bì,SSD,5.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,9.700.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,32 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,15.990.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,4.990.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,11 - 12.9 inch,Intel Core i3,4 GB,Onboard,128 GB,Nhật Bản,In trên bao bì,SSD,2.900.000 đ
+Acer,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,AMD,6 GB,Onboard,250 GB,Trung Quốc,In trên bao bì,HDD,1.250.000 đ
+Apple,Dòng Khác,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,128 GB,Nước khác,In trên bao bì,SSD,5.000.000 đ
+Acer,Predator,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Đang cập nhật,In trên bao bì,SSD,13.900.000 đ
+Lenovo,ThinkPad,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,6.990.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,5.900.000 đ
+Apple,Dòng Khác,Đã sử dụng (chưa sửa chữa),Còn bảo hành,>= 21 inch,Khác,16 GB,NVIDIA,256 GB,Đang cập nhật,In trên bao bì,SSD,8.990.000 đ
+Lenovo,ThinkPad,Mới,Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Mỹ,In trên bao bì,NaN,20.900.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Nhật Bản,In trên bao bì,SSD,6.300.000 đ
+Dell,Latitude,Mới,3 tháng,13 - 14.9 inch,Intel Core i5,16 GB,Khác,256 GB,Nhật Bản,In trên bao bì,SSD,3.000.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,AMD,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,9.990.000 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),Còn bảo hành,13 - 14.9 inch,Intel Core i5,4 GB,Khác,128 GB,Đang cập nhật,In trên bao bì,SSD,4.500.000 đ
+MSI,GF Series,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,512 GB,Đang cập nhật,In trên bao bì,SSD,11.500.000 đ
+Asus,VivoBook Seriers,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Ryzen 5,8 GB,AMD,256 GB,Trung Quốc,In trên bao bì,SSD,6.000.000 đ
+HP,ZBook,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,AMD,256 GB,Đang cập nhật,In trên bao bì,SSD,8.499.999 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,15.990.000 đ
+MSI,GE Series,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i9,16 GB,NVIDIA,1 TB,Việt Nam,In trên bao bì,SSD,23.000.000 đ
+Microsoft,Surface,Đã sử dụng (chưa sửa chữa),4-6 tháng,11 - 12.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,5.500.000 đ
+Asus,TUF Gaming,Đã sử dụng (chưa sửa chữa),Còn bảo hành,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,16.990.000 đ
+Acer,Nitro 5,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,21.500.000 đ
+Apple,MacBook Air,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,8 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,5.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,5.000.000 đ
+Dell,Dòng Khác,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,128 GB,Việt Nam,In trên bao bì,SSD,6.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,11 - 12.9 inch,Intel Core i5,4 GB,Onboard,128 GB,Nhật Bản,In trên bao bì,SSD,3.300.000 đ
+Asus,X Series,Đã sử dụng (chưa sửa chữa),>12 tháng,15 - 16.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,11.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Còn bảo hành,11 - 12.9 inch,NaN,8 GB,Khác,128 GB,Đang cập nhật,In trên bao bì,SSD,6.490.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,11 - 12.9 inch,Intel Core i7,8 GB,Onboard,NaN,Đang cập nhật,In trên bao bì,SSD,4.700.000 đ
+Asus,VivoBook Seriers,Mới,Còn bảo hành,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,15.290.000 đ
+HP,Victus,Mới,Còn bảo hành,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,14.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Nước khác,In trên bao bì,SSD,3.950.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),7-12 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,256 GB,Mỹ,In trên bao bì,SSD,7.500.000 đ
+Apple,MacBook Pro Touch Bar,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,AMD,8 GB,Onboard,256 GB,Việt Nam,In trên bao bì,SSD,9.990.000 đ
+Microsoft,Surface Laptop Studio,Mới,3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,22.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,11 - 12.9 inch,Intel Core i7,8 GB,Onboard,NaN,Đang cập nhật,In trên bao bì,SSD,4.700.000 đ
+Asus,Chromebook,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Pentium,2 GB,Onboard,500 GB,Mỹ,In trên bao bì,HDD,1.650.000 đ
+MSI,GF Series,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,512 GB,Đang cập nhật,In trên bao bì,SSD,11.500.000 đ
+HP,Spectre,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i7,16 GB,NaN,512 GB,Đang cập nhật,In trên bao bì,SSD,13.500.000 đ
+Dell,Dòng Khác,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,128 GB,Việt Nam,In trên bao bì,SSD,6.500.000 đ
+MSI,GE Series,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i9,16 GB,NVIDIA,1 TB,Việt Nam,In trên bao bì,SSD,23.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,5.990.000 đ
+Microsoft,Surface,Đã sử dụng (chưa sửa chữa),4-6 tháng,11 - 12.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Đang cập nhật,In trên bao bì,SSD,5.500.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i5,16 GB,Khác,256 GB,Đang cập nhật,In trên bao bì,SSD,7.500.000 đ
+Dell,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i5,8 GB,NaN,128 GB,Đang cập nhật,In trên bao bì,SSD,2.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,12.200.000 đ
+Acer,Nitro 5,Đã sử dụng (chưa sửa chữa),3 tháng,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,10.800.000 đ
+Acer,Nitro 5,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,21.500.000 đ
+Toshiba,E-Series,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,3.400.000 đ
+Asus,A series,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,8 GB,NVIDIA,< 128 GB,Đang cập nhật,In trên bao bì,SSD,700.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,5.800.000 đ
+Asus,X Series,Đã sử dụng (chưa sửa chữa),>12 tháng,15 - 16.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,11.000.000 đ
+Dell,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i5,8 GB,NaN,128 GB,Đang cập nhật,In trên bao bì,SSD,2.000.000 đ
+Acer,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,5.000.000 đ
+Lenovo,ThinkBook,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,8 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,7.400.000 đ
+HP,Spectre,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i7,16 GB,NaN,512 GB,Đang cập nhật,In trên bao bì,SSD,13.500.000 đ
+Hãng khác,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,6.990.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,16 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,12.200.000 đ
+Toshiba,E-Series,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,3.400.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,5.800.000 đ
+Asus,Chromebook,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Pentium,2 GB,Onboard,500 GB,Mỹ,In trên bao bì,HDD,1.650.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Celeron,4 GB,Onboard,128 GB,Mỹ,In trên bao bì,SSD,1.800.000 đ
+Dell,Inspiron,Đã sử dụng (chưa sửa chữa),3 tháng,17 - 18.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Đang cập nhật,In trên bao bì,SSD,12.500.000 đ
+Asus,A series,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,8 GB,NVIDIA,< 128 GB,Đang cập nhật,In trên bao bì,SSD,700.000 đ
+Apple,MacBook Pro,Mới,>12 tháng,15 - 16.9 inch,Intel Core i5,8 GB,NaN,512 GB,Trung Quốc,In trên bao bì,NaN,8.490.000 đ
+Microsoft,Surface Laptop Studio,Mới,3 tháng,13 - 14.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,22.000.000 đ
+Asus,TUF Gaming,Đã sử dụng (chưa sửa chữa),>12 tháng,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,16.500.000 đ
+Asus,TUF Gaming,Mới,Còn bảo hành,15 - 16.9 inch,AMD,16 GB,Khác,512 GB,Nước khác,In trên bao bì,SSD,25.500.000 đ
+Apple,MacBook Air M1,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,NaN,NaN,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,14.000.000 đ
+Dell,G Series,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i9,32 GB,NVIDIA,1 TB,Mỹ,In trên bao bì,SSD,28.000.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i9,32 GB,NaN,512 GB,Mỹ,In trên bao bì,SSD,22.500.000 đ
+HP,Notebook,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i7,8 GB,NVIDIA,256 GB,Đang cập nhật,In trên bao bì,SSD,4.600.000 đ
+Asus,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,256 GB,Đang cập nhật,In trên bao bì,SSD,3.200.000 đ
+Dell,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i5,8 GB,NaN,128 GB,Đang cập nhật,In trên bao bì,SSD,2.000.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Hết bảo hành,11 - 12.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,2.700.000 đ
+Acer,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,5.000.000 đ
+Lenovo,ThinkBook,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core i5,8 GB,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,7.400.000 đ
+HP,ProBook,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,4.800.000 đ
+Lenovo,Dòng Khác,Mới,7-12 tháng,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,18.000.000 đ
+Hãng khác,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,6.990.000 đ
+Apple,MacBook Pro,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,37.900.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Celeron,4 GB,Onboard,128 GB,Mỹ,In trên bao bì,SSD,1.800.000 đ
+Dell,Inspiron,Đã sử dụng (chưa sửa chữa),3 tháng,17 - 18.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Đang cập nhật,In trên bao bì,SSD,12.500.000 đ
+Apple,MacBook Pro M1,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,8 GB,NVIDIA,250 GB,Mỹ,In trên bao bì,SSD,200.000 đ
+Apple,MacBook Pro,Mới,>12 tháng,15 - 16.9 inch,Intel Core i5,8 GB,NaN,512 GB,Trung Quốc,In trên bao bì,NaN,8.490.000 đ
+Asus,TUF Gaming,Đã sử dụng (chưa sửa chữa),>12 tháng,15 - 16.9 inch,Intel Core i5,16 GB,NVIDIA,512 GB,Việt Nam,In trên bao bì,SSD,16.500.000 đ
+Asus,TUF Gaming,Mới,Còn bảo hành,15 - 16.9 inch,AMD,16 GB,Khác,512 GB,Nước khác,In trên bao bì,SSD,25.500.000 đ
+Apple,MacBook Air M1,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,NaN,NaN,NaN,256 GB,Đang cập nhật,In trên bao bì,SSD,14.000.000 đ
+Dell,G Series,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i9,32 GB,NVIDIA,1 TB,Mỹ,In trên bao bì,SSD,28.000.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,Intel Core i9,32 GB,NaN,512 GB,Mỹ,In trên bao bì,SSD,22.500.000 đ
+HP,ZBook,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,13.500.000 đ
+HP,Notebook,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i7,8 GB,NVIDIA,256 GB,Đang cập nhật,In trên bao bì,SSD,4.600.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),3 tháng,17 - 18.9 inch,Intel Core i7,32 GB,NVIDIA,1 TB,Mỹ,In trên bao bì,SSD,16.300.000 đ
+Asus,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i5,8 GB,NVIDIA,256 GB,Đang cập nhật,In trên bao bì,SSD,3.200.000 đ
+MSI,Bravo Series,Đã sử dụng (chưa sửa chữa),4-6 tháng,15 - 16.9 inch,Ryzen 7,8 GB,AMD,512 GB,Đài Loan,In trên bao bì,SSD,12.900.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Hết bảo hành,11 - 12.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,2.700.000 đ
+HP,Elitebook,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,5.500.000 đ
+Dell,Inspiron,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Intel Core i7,8 GB,AMD,256 GB,Mỹ,In trên bao bì,SSD,5.900.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Intel Core i7,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,7.900.000 đ
+Acer,Nitro 5,Đã sử dụng (chưa sửa chữa),Hết bảo hành,15 - 16.9 inch,Intel Core i5,8 GB,Onboard,512 GB,Việt Nam,In trên bao bì,SSD,6.000.000 đ
+Lenovo,Dòng Khác,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,NaN,Việt Nam,In trên bao bì,SSD,11.000.000 đ
+Dell,Precision,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i7,16 GB,NVIDIA,512 GB,Mỹ,In trên bao bì,SSD,16.000.000 đ
+Lenovo,IdeaPad,Đã sử dụng (chưa sửa chữa),Hết bảo hành,13 - 14.9 inch,Ryzen 7,NaN,Onboard,500 GB,Việt Nam,In trên bao bì,SSD,8.000.000 đ
+HP,Compaq,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,13 - 14.9 inch,Intel Core 2 Duo,2 GB,NaN,< 128 GB,Đang cập nhật,In trên bao bì,HDD,200.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Đang cập nhật,In trên bao bì,NaN,7.900.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,13 - 14.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,8.500.000 đ
+Apple,Macbook Pro M3,Đã sử dụng (chưa sửa chữa),Còn bảo hành,13 - 14.9 inch,Khác,8 GB,Khác,512 GB,Việt Nam,In trên bao bì,SSD,31.500.000 đ
+Dell,Inspiron,Mới,3 tháng,15 - 16.9 inch,Intel Core i7,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,21.500.000 đ
+Apple,MacBook Pro M1,Đã sử dụng (chưa sửa chữa),3 tháng,13 - 14.9 inch,Khác,16 GB,Onboard,512 GB,Mỹ,In trên bao bì,SSD,28.500.000 đ
+Dell,Latitude,Đã sử dụng (chưa sửa chữa),1 tháng,15 - 16.9 inch,Intel Core i5,8 GB,Onboard,256 GB,Mỹ,In trên bao bì,SSD,6.999.999 đ
+Dell,Precision,Mới,Bảo hành hãng,NaN,NaN,NaN,NaN,NaN,Mỹ,In trên bao bì,NaN,9.700.000 đ
